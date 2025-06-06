@@ -1,1 +1,1 @@
-# Corona-Virus-Analysis-Dashboard
+# Corona-Virus-Analysis-Power BI Dashboard
